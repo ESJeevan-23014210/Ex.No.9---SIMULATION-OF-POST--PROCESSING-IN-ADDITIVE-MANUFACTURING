@@ -51,7 +51,7 @@
 ## Output:
 ![OUTPUT](/OUTPUT.jpeg)
 ![OUTPUT](/OUTPUT2.jpeg)
-![OUTPUT](/OUTPUT3.jpEg)
+![OUTPUT](/OUTPUT3.jpeg)
 
 ### Name: Jeevan E S
 ### Register Number: 23014210
